@@ -1,0 +1,1 @@
+python-telegram-bot==21.6\nPyrogram==2.0.106\nTgCrypto==1.2.5\n
